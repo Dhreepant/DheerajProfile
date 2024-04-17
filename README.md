@@ -4,7 +4,7 @@ Software Developer | Open Source Enthusiast 🚀
 ## About Me
 I'm a software developer with a passion for building scalable web applications and contributing to open-source projects.
 ## Skills
-- JavaScript (Node.js, React)
+- JavaScript (React)
 - Python (Django, Flask)
 - HTML, CSS, SASS
 - Git, GitHub, Docker
