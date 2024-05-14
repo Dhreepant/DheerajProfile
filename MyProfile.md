@@ -6,7 +6,7 @@ I'm a software developer with a passion for building scalable web applications a
 ## Skills
 - JavaScript (React)
 - Python (Django, Flask)
-- HTML, CSS, SASS
+- HTML, CSS
 - Git, GitHub, Docker
 ## Projects
 1. **Project Name**
